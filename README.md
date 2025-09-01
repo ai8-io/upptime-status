@@ -1,6 +1,6 @@
 # [📈 Live Status](https://ai8-io.github.io/upptime-status): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Ai8](www.deepflow.com), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [DeepFlow](www.deepflow.com), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/ai8-io/upptime-status/workflows/Uptime%20CI/badge.svg)](https://github.com/ai8-io/upptime-status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/ai8-io/upptime-status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/ai8-io/upptime-status/actions?query=workflow%3A%22Response+Time+CI%22)
