@@ -6,15 +6,15 @@
     "slug": "deep-flow-website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.57%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 237,
-    "timeDay": 169,
-    "timeWeek": 192,
-    "timeMonth": 216,
-    "timeYear": 237,
+    "time": 236,
+    "timeDay": 156,
+    "timeWeek": 183,
+    "timeMonth": 214,
+    "timeYear": 236,
     "dailyMinutesDown": {
       "2025-12-05": 21
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 103,
-    "timeWeek": 139,
-    "timeMonth": 185,
-    "timeYear": 220,
+    "time": 219,
+    "timeDay": 152,
+    "timeWeek": 141,
+    "timeMonth": 180,
+    "timeYear": 219,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 493,
-    "timeDay": 436,
-    "timeWeek": 512,
-    "timeMonth": 488,
-    "timeYear": 493,
+    "time": 492,
+    "timeDay": 386,
+    "timeWeek": 492,
+    "timeMonth": 485,
+    "timeYear": 492,
     "dailyMinutesDown": {}
   }
 ]
