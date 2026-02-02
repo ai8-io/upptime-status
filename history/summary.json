@@ -42,19 +42,19 @@
     "url": "https://api-v2.stg.deepflow.com/k8s-probes/liveness",
     "icon": "https://icons.duckduckgo.com/ip3/api-v2.stg.deepflow.com.ico",
     "slug": "deep-flow-fast-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.16%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.12%",
     "uptimeYear": "99.83%",
     "time": 490,
-    "timeDay": 413,
-    "timeWeek": 480,
-    "timeMonth": 492,
+    "timeDay": 394,
+    "timeWeek": 467,
+    "timeMonth": 489,
     "timeYear": 490,
     "dailyMinutesDown": {
-      "2026-02-02": 0,
+      "2026-02-02": 16,
       "2026-01-14": 369
     }
   }
