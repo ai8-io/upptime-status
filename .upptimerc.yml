@@ -5,7 +5,9 @@ repo: upptime-status # The name of this repository
 sites:
   - name: DeepFlow Website
     url: https://www.deepflow.com
-  - name: DeepFlow Backend
+  - name: DeepFlow App
+    url: https://app.deepflow.com
+  - name: DeepFlow FastAPI
     url: https://api-v2.stg.deepflow.com/k8s-probes/liveness
 
 status-website:
