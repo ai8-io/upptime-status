@@ -5,18 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.deepflow.com.ico",
     "slug": "deep-flow-website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 161,
-    "timeWeek": 163,
-    "timeMonth": 168,
-    "timeYear": 216,
+    "uptime": "99.90%",
+    "uptimeDay": "69.82%",
+    "uptimeWeek": "95.69%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "99.90%",
+    "time": 215,
+    "timeDay": 71,
+    "timeWeek": 160,
+    "timeMonth": 163,
+    "timeYear": 215,
     "dailyMinutesDown": {
-      "2025-12-05": 21
+      "2025-12-05": 21,
+      "2026-07-06": 26,
+      "2026-07-05": 408
     }
   },
   {
@@ -31,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 225,
-    "timeDay": 257,
-    "timeWeek": 246,
-    "timeMonth": 226,
+    "timeDay": 251,
+    "timeWeek": 240,
+    "timeMonth": 227,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2026-05-31": 67
@@ -51,9 +53,9 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.69%",
     "time": 483,
-    "timeDay": 421,
-    "timeWeek": 458,
-    "timeMonth": 453,
+    "timeDay": 500,
+    "timeWeek": 460,
+    "timeMonth": 452,
     "timeYear": 483,
     "dailyMinutesDown": {
       "2026-01-14": 369,
