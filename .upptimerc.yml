@@ -2,13 +2,22 @@
 owner: ai8-io # Your GitHub organization or username, where this repository lives
 repo: upptime-status # The name of this repository
 
+# Production endpoints only. `api-v2.stg.deepflow.com` was monitored here until
+# 2026-09-02: it was a STAGING host, and a CNAME to an AWS ELB deleted with the
+# AWS estate in PR #2798, so it had stopped resolving entirely. Keep this list
+# pointed at what customers actually use.
 sites:
   - name: DeepFlow Website
     url: https://www.deepflow.com
   - name: DeepFlow App
     url: https://app.deepflow.com
-  - name: DeepFlow FastAPI
-    url: https://api-v2.stg.deepflow.com/k8s-probes/liveness
+  - name: DeepFlow API
+    url: https://api.deepflow.com/k8s-probes/liveness
+  # Keycloak's OIDC discovery document, not the root: the root 302s to the
+  # login page, while this returns 200 and proves the `deepflow` realm is
+  # actually being served, which is what a login depends on.
+  - name: DeepFlow Authentication
+    url: https://auth.deepflow.com/realms/deepflow/.well-known/openid-configuration
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
