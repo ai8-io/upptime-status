@@ -1,7 +1,7 @@
 url: https://api.deepflow.com/k8s-probes/liveness
 status: up
 code: 200
-responseTime: 368
-lastUpdated: 2026-10-18T23:00:21.909Z
+responseTime: 353
+lastUpdated: 2026-10-19T23:00:32.902Z
 startTime: 2026-09-03T11:24:50.021Z
 generator: Upptime <https://github.com/upptime/upptime>
